@@ -1,0 +1,24 @@
+Game Algorithm: 
+Rock Paper Scissors is a simple game typically placed between two 
+people.here is the step-by-step algorithm: 
+
+Step1: Rock Paper Scissors game is an computer game. Start the 
+game by displaying the rules and options to the player. 
+
+Step2:.Ask the player to choose either rock,paper or scissors. 
+
+Step3:Generate the player’s choice with rhe computer’s choice to 
+determine the winner. 
+
+Step4: Compare the player’s choice with the computer’s choice to 
+determine the winner. 
+
+Step5: Display the result of the game who won the game .For 
+example, If you win then displays ”YOU WIN” or if the computer 
+wins then displays “COMPUTER WIN” or id the both the computer 
+and you daiplays same number then it displays “IT’S DRAW”. 
+
+Step6: Ask the player if they want to play again.
+
+Step7: If the player wants to play again, goback to step2.otherwise, 
+end the game.
